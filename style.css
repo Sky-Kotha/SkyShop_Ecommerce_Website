@@ -1,0 +1,53 @@
+.bg-section {
+    background-color: #f5f7fa;
+}
+
+.head {
+    color: #183b56;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.card {
+    background-color: white;
+    border-style: 5px solid black !important;
+}
+
+.card-head {
+    color: #1f2933;
+    font-size: 20px;
+}
+
+.see-link {
+    color: #ff9f00;
+    font-weight: bold;
+}
+
+#login {
+    background-color: #dfe1e6;
+}
+.carousel .carousel-item {
+    transition-duration: 50ms;
+}
+.card {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px 18px #888888;
+}
+.card:hover {
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+footer{
+    color: #f5f7fa;
+    background-color: #1f2933;
+}
+.title{
+    color: white;
+    font-weight: bold;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.groc {
+    width: 200px;
+    height: 150px;
+}
